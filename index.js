@@ -15,7 +15,7 @@ function isPalindrome(string) {
 }
 
 console.log(isPalindrome("madam"));  // Output: true
-console.log(isPalindrome("robot"));  // Output: false
+console.log(isPalindrome("racecar"));  // Output: true
 
 
 
